@@ -1,4 +1,4 @@
-#about {
+#team {
   height: 100vh;
   display: flex;
   align-items: center;
@@ -29,5 +29,9 @@
   }
   .fa-heart {
     color: #D23333;
+  }
+  .flex-v {
+  display: flex;
+  flex-direction: column;
   }
 }
